@@ -20,13 +20,12 @@ Implement a complete onboarding experience that includes:
    - Introduce the app with compelling messaging
    - **Request Push Notification permission on this first onboarding screen**
    - Explain the value proposition for allowing notifications
-   - Clear call-to-action to begin onboarding
 
 3. **User Information Collection**
    - Capture user's name (text input)   
    - Include basic form validation
 
-4. **Health Data Collection**
+4. **Birth date Collection**
    - Capture user's birthday (date picker)
    - Include basic form validation
 
