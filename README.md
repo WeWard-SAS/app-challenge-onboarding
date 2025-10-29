@@ -1,7 +1,7 @@
 # 🚀 WeWard - Interview Challenge
 
 ## Goal
-Build a lightweight version of the WeWard app onboarding flow that demonstrates your understanding of building funneled onboarding flows, permission handling, and data persistence in React Native.
+Build a lightweight version of the WeWard app onboarding flow that demonstrates your understanding of building funneled flows, permission handling, and data persistence in React Native.
 You can use any third-party libraries/npm packages that you want to use.
 
 ![mockup.png](mockup.png)
