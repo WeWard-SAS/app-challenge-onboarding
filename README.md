@@ -46,9 +46,9 @@ Implement a complete onboarding experience that includes:
 ## Evaluation Criteria
 
 We'll be assessing, in order of importance:
-- 1) **Code Architecture and quality**: How well you have structured your code and how easy it is to maintain and extend.
-- 2) **Platform Awareness**: Proper handling of iOS vs Android differences
-- 3) **User Experience**: Flow smoothness, visual design
+1. **Code Architecture and quality**: How well you have structured your code and how easy it is to maintain and extend.
+2. **Platform Awareness**: Proper handling of iOS vs Android differences
+3. **User Experience**: Flow smoothness, visual design
 
 
 ## Deliverable and Submission
