@@ -25,36 +25,30 @@ Implement a complete onboarding experience that includes:
    - Capture user's name (text input)   
    - Include basic form validation
 
-4. **Birth date Collection**
-   - Capture user's birthday (date picker)
-   - Include basic form validation
-
-5. **Permission Requests**   
+4. **Permission Requests**   
    - **App Tracking Transparency (ATT)**: Request tracking permission (iOS)
    - Handle both granted and denied states gracefully
 
-6. **Onboarding Completion**
+5. **Onboarding Completion**
     - Display a completion screen with a thank you message
 
-5. **Home Page**
+6. **Home Page**
    - Display personalized greeting with user's name
    - Show step count or activity metric (can be static/fake data)
    - This is where users land after completing onboarding
 
-6. **Data Persistence & Flow Control**
+7. **Data Persistence & Flow Control**
    - Save all collected user data to local storage
    - **Onboarding should only play on first launch**
    - On subsequent app opens, users should land directly on the Home Page
-   - Track onboarding completion status
 
 
 ## Evaluation Criteria
 
-We'll be assessing:
-- **User Experience**: Flow smoothness, visual design
-- **Code Architecture**: How well you have structured your code and how easy it is to maintain and extend.
-- **Technical Implementation**: Code quality, error handling, and edge cases
-- **Platform Awareness**: Proper handling of iOS vs Android differences
+We'll be assessing, in order of importance:
+- 1)**Code Architecture and quality**: How well you have structured your code and how easy it is to maintain and extend.
+- 2) **Platform Awareness**: Proper handling of iOS vs Android differences
+- 3) **User Experience**: Flow smoothness, visual design
 
 
 ## Deliverable and Submission
@@ -65,7 +59,6 @@ We'll be assessing:
 - Add animations or transitions between screens
 - **Allow users to resume onboarding from their last completed step if they exit mid-flow**
 
---
 
 ## Installation
 Follow the Get Started guide in the Expo documentation to initialize your project.  
